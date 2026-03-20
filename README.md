@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hello, I'm Syn0xz
 
-<!--
-**PetKunggamer/PetKunggamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a programmer obsessed with coding and building anything I can imagine.  
+💡 I love turning ideas into reality through clean and efficient code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔥 Passionate about coding & problem solving
+- 🛠️ Love building systems from scratch
+- ⚡ Always learning and improving every day
+- 🎯 Focused on performance & clean code
+
+---
+
+## 🧰 Tech Stack
+- 🌐 Frontend: HTML, CSS
+- ⚙️ Backend: PHP
+- 🗄️ Database: MySQL
+- 🎮 Other: Lua (Roblox)
+
+---
+
+## 📈 Goals
+- 🚀 Become a high-level developer
+- 🧩 Build powerful and useful systems
+- 💰 Create projects that generate income
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+- 💬 Discord: YOUR_DISCORD
+- 📧 Email: YOUR_EMAIL
+
+---
+
+## ⚡ Fun Fact
+> I don't just write code... I build possibilities.
