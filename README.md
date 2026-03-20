@@ -51,12 +51,3 @@ I'm a 2nd year Information Technology student at TATC with a burning passion for
 </div>
 
 ---
-
-## 📫 Contact
-- 💬 Discord: YOUR_DISCORD
-- 📧 Email: YOUR_EMAIL
-
----
-
-## ⚡ Quote
-> Still learning, still building 🚀
